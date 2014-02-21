@@ -33,7 +33,7 @@
  
  */
  
- nt measurePin = 0;
+int measurePin = 0;
 int ledPower = 9;
  
 int samplingTime = 280;
